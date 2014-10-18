@@ -1,0 +1,8 @@
+logs/
+analysis/
+*pyc
+*dat*
+*~
+*swp
+data/
+test.py

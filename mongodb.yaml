@@ -1,0 +1,6 @@
+searchdb:
+    media_dbname: media
+    famous_dbname: famous
+    dbname: sinatest5
+    host: 114.212.190.220
+    port: 27017

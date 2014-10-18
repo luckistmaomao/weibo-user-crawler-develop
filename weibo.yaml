@@ -1,0 +1,10 @@
+db:
+    dbname: SinaWeiboUserTmp
+    host: 114.212.191.119
+    port: 27017
+
+login:
+    - username: 18623548894
+      password: a666888
+
+cookie_file: weibo_login_cookies.dat
